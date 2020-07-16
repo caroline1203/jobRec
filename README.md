@@ -7,3 +7,8 @@ Java, HTML, CSS, JavaScript
 AJAX, Servelet, AWS
 
 ### Preview
+![image](https://github.com/caroline1203/jobRec/src/screenShots/1.jpg)
+
+![image](https://raw.githubusercontent.com/caroline1203/jobRec/master/src/screenShots/2.JPG)
+
+![image](https://raw.githubusercontent.com/caroline1203/jobRec/master/src/screenShots/3.JPG)
